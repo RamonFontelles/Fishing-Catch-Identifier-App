@@ -1,0 +1,7 @@
+{
+  "name": "Identificador de Peces con IA",
+  "description": "Una aplicación que utiliza IA para identificar la especie y las dimensiones de un pez a partir de una foto. Los usuarios pueden subir una imagen o usar su cámara, añadir la ubicación de la captura y guardar los resultados en una galería personal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
